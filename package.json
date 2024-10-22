@@ -1,0 +1,9 @@
+{
+  "name": "virtual-card-team",
+  "version": "1.0.0",
+  "title": "经销商虚拟卡密赠送",
+  "description": "经销商虚拟卡密赠送",
+  "url": "",
+  "namespace": "Yunshop\\VirtualCardTeam",
+  "config": "config.tpl"
+}
